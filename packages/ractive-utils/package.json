@@ -1,5 +1,8 @@
 {
   "name": "ractive-utils",
   "version": "1.0.0",
-  "files": [ "src", "dist" ]
+  "files": [ "src", "dist" ],
+  "dependencies": {
+    "ractive": "^1.0.0"
+  }
 }
